@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="registration.css">
+    <title>Continue Registration</title>
+</head>
+<body>
+<header>
+    <h6 class="logo"><img src="#" alt=""> SignUp</h6>
+    <nav class="navigation">
+        <a href="seniorman.html">Home</a>
+    </nav>
+</header>
+
+<div class="container">
+    <div class="SignUp-container">
+        <img src="logo.jpg" alt="payee logo" class="logo" sizes="1">
+        <h1>Create your Account</h1>
+        <h5>Fill the Following Information to Complete your Registration</h5>
+        
+        <form class="SignUp" method="post">
+            <div class="form-group">
+                <label for="first-name">First Name</label>
+                <input type="text" id="first-name" name="fname" placeholder="First Name" required>
+            </div>
+
+            <div class="form-group">
+                <label for="last-name">Last Name</label>
+                <input type="text" id="last-name" name="lname" placeholder="Last Name" required>
+            </div>
+
+            <div class="form-group">
+                <label for="other-name">Other Name</label>
+                <input type="text" id="other-name" name="oname" placeholder="Other Name">
+            </div>
+
+            <div class="form-group">
+                <label for="Date-of-Birth">Date of Birth</label>
+                <input type="date" id="dob" name="DOB" placeholder="DD-MM-YYYY" required>
+            </div>
+
+            <div class="form-group">
+                <label for="phone-number">Phone Number (with country code)</label>
+                <input type="tel" id="phone-number" name="Pnumber" required>
+            </div>
+                
+            <div class="form-group">
+                <label for="nationality">Nationality</label>
+                <select id="nationality" name="nationality" required onchange="updateStates()"></select>
+            </div>
+
+            <div class="form-group">
+                <label for="state">State/Province</label>
+                <select id="state" name="state" required></select>
+            </div>
+                
+            <div class="form-group">
+                <label for="Password">Password</label>
+                <input type="password" id="Password" name="pass" placeholder="Password">
+            </div>
+
+            <div class="form-group">
+                <label for="confirm-Password">Confirm Password</label>
+                <input type="password" id="confirm-Password" name="conpass" placeholder="Confirm">
+            </div>
+
+            <div class="Term&condition">
+                <label><input type="checkbox"><a href="#">Terms and Conditions</a></label>
+            </div>
+
+            <div class="Submit-register">
+                <button class="btnSubmit">Submit</button> 
+                <p style="color: black;">Already have an Account?     <a href="login.html" class="login-link">Login</a></p>
+            </div>       
+
+        </form>
+    </div>
+
+    <div class="image-container">
+        <img src="WhatsApp_Image_2024-05-27_at_11.44.23_AM-removebg-preview.png" alt="Airplane Illustration">
+    </div>
+</div>
+
+<script src="form.js"></script>
+</body>
+</html>
