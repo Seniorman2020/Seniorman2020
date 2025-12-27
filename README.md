@@ -1,4 +1,4 @@
-### Hi there 👋
+I’m looking for collaboration
 
 <!--
 **Seniorman2020/Seniorman2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
