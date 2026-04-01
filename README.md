@@ -1,16 +1,30 @@
-...looking for collaboration
+# Seniorman
 
-<!--
-**Seniorman2020/Seniorman2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical web products with a focus on clean interfaces, structured workflows, and business-ready functionality.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP web applications
+- Dashboard and admin systems
+- Booking and workflow platforms
+- Product-style front-end presentation
+
+## Featured Projects
+
+- [StudioForge Content Suite](https://github.com/Seniorman2020/studioforge-content-suite)  
+  Premium content operations suite for campaign planning, approvals, and publishing workflows.
+
+- [Eventora Experience Booking](https://github.com/Seniorman2020/eventora-experience-booking)  
+  Premium event discovery and booking platform for reservations, guest management, and organizer operations.
+
+- [Job Application Portal](https://github.com/Seniorman2020/job-application-portal)  
+  Recruitment and job application management platform with applicant workflows and admin review tools.
+
+## Contact
+
+- Email: cniorman6@gmail.com
+- Phone: 08164616531
+
+## About
+
+I enjoy building products that feel professional, useful, and ready for real users.
