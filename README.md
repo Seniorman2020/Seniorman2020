@@ -20,6 +20,14 @@ I build practical web products with a focus on clean interfaces, structured work
 - [Job Application Portal](https://github.com/Seniorman2020/job-application-portal)  
   Recruitment and job application management platform with applicant workflows and admin review tools.
 
+## Systems I Build
+
+- School management systems
+- Hospital management systems
+- Stock and inventory management systems
+- Booking and reservation platforms
+- Admin dashboards and internal workflow tools
+
 ## Contact
 
 - Email: cniorman6@gmail.com
