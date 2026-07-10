@@ -11,12 +11,6 @@ I build practical web products with a focus on clean interfaces, structured work
 
 ## Featured Projects
 
-- [StudioForge Content Suite](https://github.com/Seniorman2020/studioforge-content-suite)  
-  Premium content operations suite for campaign planning, approvals, and publishing workflows.
-
-- [Eventora Experience Booking](https://github.com/Seniorman2020/eventora-experience-booking)  
-  Premium event discovery and booking platform for reservations, guest management, and organizer operations.
-
 - [Job Application Portal](https://github.com/Seniorman2020/job-application-portal)  
   Recruitment and job application management platform with applicant workflows and admin review tools.
 
